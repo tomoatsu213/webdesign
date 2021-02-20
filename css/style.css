@@ -165,8 +165,7 @@
 
 .service1-items button {
   background-color: white;
-  display: inline-block;
-  margin-left: 65%;
+  float: right;
 }
 
 .service1-items button a {
@@ -211,8 +210,7 @@
 
 .service2-items button {
   background-color: white;
-  display: inline-block;
-  margin-left: 60%;
+  float: right;
 }
 
 .service2-items button a {
